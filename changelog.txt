@@ -1,4 +1,0 @@
-1cd223d display copyright
-9215f23 Add file header
-193beef Add build time
-1c03992 Initial commit
